@@ -16,9 +16,9 @@ module.exports = {
 				h4: "1.4rem",
 			},
 			boxShadow: {
-				dark: "0 5px 5px rgba(0,0,0,0.35)",
-				darklat: "5px 0 5px rgba(0,0,0,0.35)",
-				darkinner: "inset 0 5px 5px rgba(0,0,0,0.35)",
+				dark: "0 5px 5px rgba(0,0,0,0.4)",
+				darklat: "5px 0 5px rgba(0,0,0,0.4)",
+				darkinner: "inset 0 5px 5px rgba(0,0,0,0.4)",
 			},
 		},
 	},
