@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: "Nunito", sans-serif;
+	min-width: 360px;
+}
+
+i {
+	font-style: normal;
+}
